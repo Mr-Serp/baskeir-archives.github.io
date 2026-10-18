@@ -1,0 +1,11 @@
+{
+  "name": "baskeir-archives",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Baskeir Archives — a sourced encyclopedia of Baskeir Book 1.",
+  "scripts": {
+    "build": "node build-wiki.mjs",
+    "test": "node validate-wiki.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

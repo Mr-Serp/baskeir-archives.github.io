@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026-10-18",
+    "title": "The Archives arrive on GitHub Pages",
+    "summary": "The complete Book 1 encyclopedia, world atlas, chapter guides, and update history now have a GitHub Pages edition.",
+    "link": "#/chapters",
+    "linkLabel": "Explore the complete Book 1 guide"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "An update log for the Archives",
+    "summary": "Follow new articles, content expansions, and improvements here on the main page.",
+    "link": "#/sources",
+    "linkLabel": "About the archive"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Book 1, from Lenont to Valenrok",
+    "summary": "Expanded to 151 cited entries and 353 cited sections, with guides to all 36 chapters and all three appendices. Character histories, locations, magic, and major events now cover the complete novel.",
+    "link": "#/chapters",
+    "linkLabel": "Explore the chapter guide"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "The first sourced articles",
+    "summary": "Added 16 articles from the opening six chapters, chapter and page references, related reading, and a Sources & Coverage page.",
+    "link": "#/sources",
+    "linkLabel": "View sources and coverage"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "The Archives open",
+    "summary": "Launched the map-led encyclopedia with an interactive atlas, article categories, search, and a light and dark reading theme.",
+    "link": "#/atlas",
+    "linkLabel": "Open the world atlas"
+  }
+]
